@@ -31,8 +31,9 @@ A list of shortcut keybinds used for the GameMaker IDE
 - Ctrl + Shift + F => Search & Replace In Entire Project
 
 # Other/System
-- F1 => Open Manual
+- F1 => Open Manual/Navigation To Definition
 - F2 => Rename Resource
 - F5 => Run Game
 - F6 => Run Game In Debug Mode
 - F9 => Toggle Breakpoint
+- Middle Mouse Wheel Click => F1
